@@ -6,3 +6,5 @@
 #
 # Que. Difference between @classmethod, @staticmethod, @property?
 # → classmethod → cls access, staticmethod → no self/cls, property → getter/setter.
+
+
