@@ -13,10 +13,6 @@ print(s)       # {1, 2, 3, 4}  (duplicates removed)
 empty_set = set()   # correct way to create empty set
 # empty = {}        # ❌ This makes a dictionary, not a set
 
-# Diagram:
-# ┌───────────┐
-# │ s         │──▶ {1, 2, 3, 4}
-# └───────────┘
 
 
 # 🔹 Adding & Removing
