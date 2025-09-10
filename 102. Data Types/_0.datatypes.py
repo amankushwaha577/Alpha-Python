@@ -24,6 +24,16 @@
 #                   | memoryview       | mv = memoryview(b"hello")
 # ──────────────────────────────────────────────────────────────
 
+# Q. Mutable vs Immutable types?
+# → Mutable: list, dict, set.
+#   Immutable: int, float, str, tuple.
+#
+# Q. Difference between list, tuple, set, dict?
+#  → list = ordered, mutable.
+#    tuple = ordered, immutable.
+#    set = unordered unique values.
+#    dict = key–value pairs.
+
 
 # ✅ Examples in Action:
 x = 10                 # int
