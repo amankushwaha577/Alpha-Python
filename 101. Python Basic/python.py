@@ -40,8 +40,3 @@ print("Hello, World!")   # ✅ First Python program
 # ────────────────────────────────────────────────────────────────
 # Learning Curve       | Easy (closer to English)           | Steeper (deep OOP concepts required)
 # ────────────────────────────────────────────────────────────────
-# Popular Libraries    | NumPy, Pandas, TensorFlow,         | Spring, Hibernate, JavaFX
-#                      | Flask, Django                      |
-# ────────────────────────────────────────────────────────────────
-# Best For             | Beginners, AI/ML, rapid apps       | Enterprise, Android, large-scale systems
-# ────────────────────────────────────────────────────────────────
