@@ -40,9 +40,11 @@ print(s1, s2, s3)
 # lower()               | "Hello".lower()             | "hello"
 # title()               | "hello world".title()       | "Hello World"
 # strip()               | "  hi  ".strip()            | "hi"
+
 # replace()             | "hi world".replace("hi","hello") | "hello world"
 # split()               | "a,b,c".split(",")          | ['a','b','c']
 # join()                | "-".join(['a','b','c'])     | "a-b-c"
+
 # find()                | "python".find("th")         | 2
 # count()               | "banana".count("a")         | 3
 # startswith()          | "python".startswith("py")   | True
