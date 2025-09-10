@@ -8,6 +8,12 @@
 #   (b) Garbage Collector (to handle cycles)
 #   (c) Memory Pools (handled internally by PyMalloc)
 
+# ✅ Key Points for Interview :
+# 1. Python has automatic memory management → no need for manual free/delete.
+# 2. Immutable objects (int, str, tuple) may be cached/reused → saves memory.
+# 3. Can use gc.collect() to force cleanup.
+# 4. Large objects are allocated in private heap, managed internally by Python.
+
 # ✅ 1. Reference Counting
 # - Every object has a counter → how many variables refer to it.
 # - When count → 0 → object is deleted from memory.
