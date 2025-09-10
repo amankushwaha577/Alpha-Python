@@ -33,7 +33,7 @@ welcome()          # OUTPUT → Hello Guest  (uses default)
 def intro(name, age):
     print(f"My name is {name}, and I am {age} years old.")
 
-intro(age=25, name="Aman")
+intro(age=25, name="Aman")  #this way is called as keyword arguments.
 # OUTPUT → My name is Aman, and I am 25 years old.
 
 

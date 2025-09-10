@@ -78,3 +78,10 @@ print("Loop executed with pass (no action)")
 # Loops → for (sequence iteration), while (repeat until condition)
 # Controls → break (exit), continue (skip), pass (do nothing)
 # ───────────────────────────────────────────────
+
+
+# Que. Difference between break, continue, pass?
+# Ans. → break = exit loop, continue = skip iteration, pass = do nothing.
+#
+# Que. Can loops have an else?
+# Ans. → Yes! Runs if loop finishes normally (not broken).
